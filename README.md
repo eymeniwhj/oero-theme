@@ -7,7 +7,7 @@ The name uses the **Œ** ligature because it merges two letters into one single 
 ---
 
 ## What's in v0.1 (`oero-desktop`)
-* **3 Custom 5K Wallpapers (`assets/wallpapers/`):**
+* **3 Custom QHD+ Wallpapers (`assets/wallpapers/`):**
   * `oero_horizon.png` — Diagonal blend of classic Windows 7 grass-and-sky Aero with dark Windows 11 mountains and glowing glass squares.
   * `oero_emblem.png` — The signature fused **Œ** logo (bubbly cyan/emerald Aero **O** + neon-edged dark **E**).
   * `oero_bloom.png` — Smooth diagonal fusion of glossy water droplets and the dark Windows 11 Bloom flower.
