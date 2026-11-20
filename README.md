@@ -7,10 +7,10 @@ The name uses the **Œ** ligature because it merges two letters into one single 
 
 ## Previews
 
-### Horizon Edition (`oero_horizon`)
+### Horizon Wallpaper (`oero_horizon`)
 ![Œro Horizon Preview](screenshots/preview-horizon.png)
 
-### Emblem & Bloom Editions
+### Emblem & Bloom Wallpapers
 
 | Emblem (`oero_emblem`) | Bloom (`oero_bloom`) |
 | :---: | :---: |
