@@ -1,6 +1,6 @@
 # Œro (`oero-theme`)
 
-**Œro** (pronounced *Aero*, typed `oero` on standard keyboards) is a Windows 11 theme that fuses **2009 Frutiger Aero** glossy glass with **modern dark mode**.
+**Œro** (pronounced *Oero*, typed `oero` on standard keyboards) is a Windows 11 theme that fuses **2009 Frutiger Aero** glossy glass with **modern dark mode**.
 
 The name uses the **Œ** ligature because it merges two letters into one single glyph—just like this theme merges two eras of Windows UI design into one desktop.
 
