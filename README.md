@@ -34,22 +34,29 @@ The name uses the **Œ** ligature because it merges two letters into one single 
 
 ## How to Install (Windows 11)
 
-1. **Create a System Restore Point** first just to be safe.
-2. Download and install **[Windhawk](https://windhawk.net)**.
-3. Install these four Windhawk mods from the **Explore** tab:
+## How to Install (Windows 11)
+
+1. Create a System Restore Point first to be safe.
+2. Download and install [Windhawk](https://windhawk.net).
+3. Install these five Windhawk mods from the **Explore** tab:
    * `Windows 11 Taskbar Styler`
    * `Windows 11 Start Menu Styler`
    * `Start Button Replacer`
    * `Taskbar height and icon size`
-4. Open each mod's **Advanced** tab, paste the matching `.json` text from the `configs/` folder in this repo, and click **Save settings**.
-   * *(In **Start Button Replacer**, update the image path to wherever you saved `oero_start_orb.png` on your PC.)*
+   * `Windows 11 File Explorer Styler`
+4. Open each mod's **Advanced** tab, paste the matching `.json` text from the `configs/` folder (`taskbar.json`, `start-menu.json`, `start-orb.json`, `taskbar-size.json`, `explorer.json`), and click **Save settings**.
+   * *(In `Start Button Replacer`, update the image path to wherever you saved `oero_start_orb.png` on your PC.)*
 5. Right-click your favorite wallpaper from `assets/wallpapers/` and select **Set as desktop background**.
+6. **Opera GX (Optional):** Open `opera://extensions`, enable **Developer mode**, click **Load unpacked**, and select the `apps/opera-gx/` folder.
+7. **Discord (Optional):** Set Discord's Appearance to standard **Dark** (disable Nitro themes), then copy `apps/discord/oero-discord.theme.css` into your **Vencord** / **BetterDiscord** `themes` folder and toggle **Œro Discord** on.
 
 ---
 
 ## Roadmap
-* **v0.1 — Desktop Edition** *(Current)*: Wallpapers, custom Start orb, glass taskbar, and Start menu.
-* **v0.2 — Apps Edition** *(Next)*: Bringing the **Œro** glass + dark fusion into File Explorer, Discord, and browsers.
+
+* **v0.1 — Desktop Edition:** Wallpapers, custom Start orb, glass taskbar, and Start menu.
+* **v0.2 — Apps Edition** *(Current)*: Translucent File Explorer (`explorer.json`), `Œro GX` Opera GX mod, and `Œro Discord` theme.
+* **v0.3 — Full Shell Polish** *(Next)*: Custom Aero cursors, system icons, and sound pack.
 
 ---
 
