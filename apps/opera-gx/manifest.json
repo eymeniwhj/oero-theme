@@ -1,0 +1,44 @@
+{
+  "manifest_version": 3,
+  "name": "Œro GX",
+  "description": "2009 Frutiger Aero cyan-to-emerald glow fused with deep obsidian dark mode for Opera GX.",
+  "version": "0.2.0",
+  "icons": {
+    "128": "icon.png"
+  },
+  "mod": {
+    "schema_version": 2,
+    "payload": {
+      "theme": [
+        {
+          "id": "oero-dark-glass",
+          "name": "Œro Dark Glass",
+          "dark": {
+            "gx_accent": { "h": 186, "s": 100, "l": 50 },
+            "gx_secondary_base": { "h": 212, "s": 48, "l": 16 }
+          },
+          "light": {
+            "gx_accent": { "h": 186, "s": 100, "l": 42 },
+            "gx_secondary_base": { "h": 195, "s": 60, "l": 92 }
+          }
+        }
+      ],
+      "wallpaper": [
+        {
+          "id": "oero-horizon",
+          "name": "Œro Horizon",
+          "dark": {
+            "image": "wallpaper.jpg",
+            "text_color": "#E6F7FF",
+            "text_shadow": "#070D14"
+          },
+          "light": {
+            "image": "wallpaper.jpg",
+            "text_color": "#070D14",
+            "text_shadow": "#E6F7FF"
+          }
+        }
+      ]
+    }
+  }
+}
